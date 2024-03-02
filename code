@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+    <head> 
+        <link rel="stylesheet" href="styles.css" />
+        <link href="https://fonts.googleapis.com/css2?family=Bangers&family=Black+Ops+One&family=Creepster&family=La+Belle+Aurore&family=MedievalSharp&family=Orbitron&family=Rye&display=swap" rel="stylesheet">
+        <script src="index.js"></script>
+        <title>Vishruth's Personal Website</title>
+    </head>
+    <body>
+        <img src = "IMG_1531.heic">
+        <h1>
+            Hi, My name is Vishruth(a.k.a BlindMaverik)
+        </h1>
+        <h2>Fun facts about me :</h2>
+        <ul>
+            <li>20 years old</li>
+            <li>Live in India</li>
+            <li>Play Drums</li>
+        </ul>
+        <p>Please connect with me on <a href="https://www.linkedin.com/in/vishruth-shelkey-8a9a11253/" target="_blank">LinkedIn</a> <a href = "https://github.com/BlindMaverick/BlindMaverick" target="_blank">GitHub</a> </p>
+        <input type = "text" placeholder="Enter email...">
+        <button>Join Newsletter</button>
+    </body>
+</html>
